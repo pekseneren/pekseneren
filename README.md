@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on .Net Core
-- 👯 I’m looking to collaborate on .Net Core
+- I’m currently working on .Net Core
+- I’m looking to collaborate on .Net Core
 
 
 
